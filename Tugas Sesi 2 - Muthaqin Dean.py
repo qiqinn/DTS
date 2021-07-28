@@ -1,0 +1,5 @@
+print("Nama lengkap     : Muthaqin Dean")
+print("Nama panggilan   : Qin")
+print("TTL              : Ende, 1 Juni 2001")
+print("Kelas            : B")
+print("Hobi             : Membaca, nonton film")
